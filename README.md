@@ -1,1 +1,8 @@
-# sentiment-bristol-uni
+# SENTIMENT ANALYSIS ON BRISTOL UNIVERSITY THROUGH SOCIAL MEDIA
+
+## STATUS: ONGOING
+
+## PROGRESS / OBJECTIVE:
+2024/01/10 - 2024/01/19: exam season
+
+2024/02/01: begin learning API calls and web scraping 
