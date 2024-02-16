@@ -1,4 +1,4 @@
-# SENTIMENT ANALYSIS ON BRISTOL UNIVERSITY THROUGH SOCIAL MEDIA
+# Real-time Microsoft Equity pricing simulation with GBM
 
 ## STATUS: ONGOING
 
