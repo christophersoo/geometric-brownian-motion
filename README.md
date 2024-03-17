@@ -1,8 +1,8 @@
 # Real-time Microsoft Equity pricing simulation with GBM
 
-## STATUS: ONGOING
+## STATUS: COMPLETED
 
-## PROGRESS / OBJECTIVE:
-2024/01/10 - 2024/01/19: exam season
+## HOW TO DOWNLOAD
 
-2024/02/01: begin learning API calls and web scraping 
+You can view this project through jupyter notebook (Anaconda) or other IDEs such as Pycharm or VSCode.
+Email me for questions chitosux@gmail.com
